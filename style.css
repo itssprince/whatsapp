@@ -1,0 +1,126 @@
+body{
+  background-color: #dbdbdb;
+}
+*{
+  padding: 0;
+  margin: 0;
+}
+.sendbox{
+   margin-top: 0px;
+   margin-left:6px;
+   margin-bottom: 4px;
+}
+.sendbox input{
+     height:34px;
+     border: 1.7px solid black;
+     border-radius: 12px;
+     width: 80%;
+     font-size: 15px;
+     padding-left: 10px;
+}
+.sendbox button{
+    height: 31px;
+    width: 15%;
+    border-radius: 9px solid black;
+}
+.navbar{
+    background-color: #075e55;
+    height: 50px;
+    position: sticky;
+    border: 1px solid black;
+    top:0.1px;
+
+}
+.sendbtn{
+  border: 1px solid #075e55;
+   border-radius: 14px;
+   font-size: 18px;
+   background-color: #075e55;
+}
+
+.botimg{
+  margin-top: 7px;
+  
+  border: 0.5px solid gray;
+  width: 35px;
+  height: 35px;
+  border-radius: 35px;
+  
+}
+.massage{
+    margin-top: 40px;
+    background-color: #e2ffc7;
+    height: 50px;
+    width: 155px;
+    padding: 5px;
+    padding-left: 5px;
+    margin-bottom: 16px;
+}
+.left{
+   float: left;
+   clear: both;
+   background-color: #ffffff;
+   border: 1px solid #ffffff;
+   border-radius: 10px;
+   margin-left: 10px;
+}
+.right{
+  float:right;
+  clear:both;
+  border: 1px solid #e2ffc7;
+  border-radius: 10px;
+  margin-right: 10px;
+}
+.p{
+  color:white;
+  margin-bottom: 7px;
+}
+.whatnav{
+    background-color: #075e55;
+    height: 50px;
+    position: sticky;
+    border: 1px solid black;
+    top:0.1px;
+}
+
+.whatnav p{
+  color: #FFFFFF;
+  margin-top: 19px;
+}
+
+.line{
+  margin-top: 5px;
+   background-color: white;
+   height: 3px;
+   width: 80px;
+}
+
+
+.mrb{
+  height: 57px;
+  border: 0.5px solid black;
+  width: 100%;
+  background-color:#ffffff;
+}
+.botimgm{
+  margin-top: 7px;
+  border: 0.5px solid gray;
+  width: 43px;
+  height:43px;
+  border-radius: 35px;
+}
+.a{
+  text-decoration: none;
+  color:#000000;
+}
+.back{
+    color: #075e55;
+    background-color:#FFFFFF;
+    border: 2px solid #075e55;
+    border-radius: 12px;
+    text-decoration: none;
+    font-size: 17px;
+    float: right;
+    margin: 9px;
+    padding: 4px;
+}
